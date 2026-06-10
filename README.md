@@ -1,4 +1,4 @@
-# curieai
+# Curie AI
 
 The official JavaScript/TypeScript SDK for [Curie](https://curie.sh) — inference infrastructure for scientific AI.
 
